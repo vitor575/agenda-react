@@ -1,0 +1,17 @@
+@import "/src/index.css";
+
+.cabecalho {
+    color: white;
+    background-color: var(--cor-primaria);
+    text-transform: uppercase;
+    font-size: 12px;
+    height: 10vh;
+    border-radius: 0 0 5px 5px;
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho h1 {
+    padding: 10px;
+    margin-left: 10px;
+}
