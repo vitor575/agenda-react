@@ -1,0 +1,14 @@
+.rodape h3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--cor-primaria);
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+}
