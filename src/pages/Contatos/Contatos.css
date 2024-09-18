@@ -1,0 +1,10 @@
+.titulo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+.titulo h2 {
+    margin-top: 1rem;
+}
